@@ -1,0 +1,3 @@
+# hello.py
+name = input("What is your name? ")
+print("Hello, " + name + " — welcome to your 6-month journey!")
